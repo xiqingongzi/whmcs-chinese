@@ -1,2 +1,2 @@
-# whmcs-chinese
-WHMCS Chinese Package For 6.11
+# WHMCS V6 中文包 
+原作者非我，实测可用
